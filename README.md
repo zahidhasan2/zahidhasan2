@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidhasan2" alt="zahidhasan2" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Oracle Database Administra,Linux,Networkingtor**
+- 🌱 I’m currently learning **DevOps, Oracle Database Administrator,Linux,Networking**
 
 - 💬 Ask me about **SQL**
 
