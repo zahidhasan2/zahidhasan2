@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidhasan2" alt="zahidhasan2" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS,Machine Learning & Deep Learning**
 
 - 💬 Ask me about **SQL**
 
