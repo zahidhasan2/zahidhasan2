@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zahid Hasan</h1>
-<h3 align="center">SQL in Data Analytics</h3>
+<h1 align="center">Hi, I'm Zahid Hasan</h1>
+<h3 align="center">Full‑stack Developer · Python & Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasan2&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasan2" /> </p>
 
@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **AWS,Machine Learning & Deep Learning**
 
-- 💬 Ask me about **SQL**
-
 - 📫 How to reach me **zahidhasan6474@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
