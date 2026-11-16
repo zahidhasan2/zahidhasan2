@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Hi,%20I'm%20MD%20Zahid%20Hasan&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header banner" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=AI%2FML+Researcher;Software+Engineer+(Python+%26+Django);DevOps+%26+AI+Automation+Engineer;IEEE+WIECON-ECE+2026+Co-author;Currently+Learning+AWS%2C+ML+%26+Deep+Learning" alt="Typing animation" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahidhasan2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
