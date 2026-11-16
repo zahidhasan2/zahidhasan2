@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Hi,%20I'm%20MD%20Zahid%20Hasan&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=AI%2FML+Researcher;Software+Engineer+(Python+%26+Django);DevOps+%26+AI+Automation+Engineer;IEEE+WIECON-ECE+2026+Co-author;Currently+Learning+AWS%2C+ML+%26+Deep+Learning" alt="Typing animation" />
-</p>
+<h1 align="center">Hi, I'm MD Zahid Hasan 👋</h1>
+<h3 align="center">AI/ML Researcher | Software Engineer | DevOps & AI Automation Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahidhasan2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -14,7 +9,7 @@
   <a href="https://linkedin.com/in/zahidhasan2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zahidhasan6474@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zahidhasan2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://fb.com/zahid%20hasan%20aa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://fb.com/zahid hasan aa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
@@ -93,7 +88,3 @@ Co-author, IEEE WIECON-ECE 2026
 - 📧 Email: zahidhasan6474@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/zahidhasan2](https://linkedin.com/in/zahidhasan2)
 - 💻 Competitive programming: [Codeforces](https://codeforces.com/profile/blood_linebd) · [LeetCode](https://www.leetcode.com/blood_linebd) · [HackerRank](https://www.hackerrank.com/blood_linebd)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" alt="footer" />
-</p>
