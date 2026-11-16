@@ -1,23 +1,90 @@
-<h1 align="center">Hi, I'm Zahid Hasan</h1>
-<h3 align="center">Full‑stack Developer · Python & Django</h3>
+<h1 align="center">Hi, I'm MD Zahid Hasan 👋</h1>
+<h3 align="center">AI/ML Researcher | Software Engineer | DevOps & AI Automation Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasan2&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasan2" /> </p>
-
-- 🌱 I’m currently learning **AWS,Machine Learning & Deep Learning**
-
-- 📫 How to reach me **zahidhasan6474@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zahidhasan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahidhasan2" height="30" width="40" /></a>
-<a href="https://fb.com/zahid hasan aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahid hasan aa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/blood_linebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blood_linebd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/blood_linebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="blood_linebd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/blood_linebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blood_linebd" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zahidhasan2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"  alt="django" width="40" height="40"/>
+<p align="center">
+  <a href="https://linkedin.com/in/zahidhasan2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zahidhasan6474@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/zahidhasan2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://fb.com/zahid hasan aa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+---
+
+## 🚀 Hero Summary
+- 🌟 **Core Focus:** AI/ML Research, Software Engineering (Python & Django), DevOps, and AI Automation
+- 🌱 **Currently Learning:** AWS, Machine Learning & Deep Learning
+- 📍 **Location:** Dhaka, Bangladesh 🇧🇩
+
+## 👨‍💻 About Me
+I am an AI/ML researcher and software engineer with a background in Python and Django web development. I did AI/ML research at university, and I now work on DevOps and AI automation, including CI/CD pipelines and deploying 3-tier applications on AWS.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Data & AI**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## 🛠️ Featured Projects
+
+### 🛒 E-commerce Seller Dashboard
+Single-vendor ecommerce admin panel for managing the store's day-to-day operations.
+- **Tech Stack:** Python, Django, MySQL
+
+### 🗄️ E-commerce ERD Design
+Database design practice project covering schema design and normalization.
+- **Tech Stack:** MySQL
+
+## 📄 Research & Publication
+**SE-MobileNet-SimCLR: An Efficient Contrastive Self-Supervised Framework for Microscopic Biomedical Image Classification**
+Co-author, IEEE WIECON-ECE 2026
+(with Tahmina Hasan, Samiha Muntaha Mahin, Md Samiul Alom, Umme Mumtahina)
+
+## 🎯 What I'm Currently Working On
+- 🌱 Learning AWS, Machine Learning & Deep Learning
+- 🤖 Building AI automation workflows
+- ⚙️ Practicing DevOps CI/CD and 3-tier deployments on AWS
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidhasan2&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidhasan2" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasan2&layout=compact" alt="Top Languages" />
+</p>
+
+## 📬 Contact
+- 📧 Email: zahidhasan6474@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/zahidhasan2](https://linkedin.com/in/zahidhasan2)
+- 💻 Competitive programming: [Codeforces](https://codeforces.com/profile/blood_linebd) · [LeetCode](https://www.leetcode.com/blood_linebd) · [HackerRank](https://www.hackerrank.com/blood_linebd)
